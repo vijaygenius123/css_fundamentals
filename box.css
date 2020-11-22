@@ -26,4 +26,5 @@ body {
     margin-top: 10em;
     background: white;
     box-shadow: 0 0 3em rgba(0,0,0,.15);
+    padding: 2em;
 }
