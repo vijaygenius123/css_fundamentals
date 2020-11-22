@@ -4,8 +4,45 @@
     font-family: 'PT Serif', serif;
 */
 
+body{
+  padding: 2em;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  font-weight: normal;
+  color: #414141;
+}
+
 .container {
   width: 90%;
   max-width: 39rem;
   margin: 0 auto;
+}
+
+.title {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 6rem;
+  line-height: 78px;
+  color: #414141;
+}
+
+
+.subtitle {
+  font-size: 2.25rem;
+  color: #7D7D7D;
+}
+
+
+p{
+  font-size: 1.125rem;
+  line-height: 160%;
+  color: #5B5B5B;
+}
+
+.lead{
+  font-size: 1.3125rem;
+}
+
+a{
+  color: #ca5e10;
 }
